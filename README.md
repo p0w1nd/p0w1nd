@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=p0w1nd)](https://git.io/streak-stats)
+
 <!--
 **p0w1nd/p0w1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
