@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0w1nd&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0w1nd)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **p0w1nd/p0w1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
